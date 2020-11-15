@@ -1,0 +1,16 @@
+body {
+    background: #f8f7f2;
+    font: 100%/1.5 'Kalam', cursive;
+}
+.app-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-not-commic {
+    height: 100vh;
+    align-content: center;
+    img {
+        width: 50vw;
+    }
+}

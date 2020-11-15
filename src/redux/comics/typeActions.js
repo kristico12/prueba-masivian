@@ -1,0 +1,7 @@
+const typeActions = {
+    COMICS_MESSAGE_ERROR: 'COMICS_MESSAGE_ERROR',
+    COMICS_MESSAGE_SUCCESS: 'COMICS_MESSAGE_SUCCESS',
+    COMICS_LOAD: 'COMICS_LOAD',
+};
+
+export default typeActions;

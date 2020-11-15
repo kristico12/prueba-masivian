@@ -1,0 +1,11 @@
+.calification-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  span:hover {
+    cursor: pointer;
+  }
+  .active {
+    color: orange;
+  }
+}
