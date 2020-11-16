@@ -2,6 +2,10 @@
 
 Este repositorio contiene la solucion de la prueba de masivian consumir una api, esta hecho en React JS.
 
+## Comando para instalar el proyecto
+
+* En la raiz del proyecto Ejecute el comando `npm i` esto instalara todo los paquetes necesarios del proyecto
+
 ## Comando para correr el proyecto
 
 En el directorio raiz del proyecto escribir en la consola:
